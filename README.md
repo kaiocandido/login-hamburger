@@ -1,6 +1,6 @@
 <h1>LOGIN</h1>
 
-<a src="https://login-hamburger.vercel.app/">Preview</a>
+<a href="https://login-hamburger.vercel.app/" target="_blank">PREVIEW</a>
 <br>
 <br>
 
