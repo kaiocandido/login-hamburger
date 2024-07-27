@@ -1,16 +1,16 @@
 # Tela de Login - Hamburgueria
 
-Bem-vindo ao repositório da **Tela de Login - Hamburgueria**! Este projeto é uma aplicação web que simula a tela de login para uma hamburgueria, projetada para fornecer uma interface atraente e funcional para o acesso de usuários ao sistema da hamburgueria. O projeto utiliza **HTML** e **CSS** para criar uma experiência de usuário visualmente agradável e responsiva.
+Bem-vindo ao repositório da Tela de Login - Sorteador de Números! Este projeto é uma aplicação web que simula a tela de login para um sorteador de números, projetada para fornecer uma interface intuitiva para que o usuário possa inserir dois números e gerar um resultado aleatório.
 
 ## 🚀 Sobre o Projeto
 
-A **Tela de Login - Hamburgueria** é uma aplicação web desenvolvida para simular a página de login de um sistema de gestão para uma hamburgueria. Utilizando **HTML** para a estruturação da página e **CSS** para estilização, a aplicação oferece uma interface clara e intuitiva. O projeto está hospedado na **Vercel**, permitindo acesso rápido e fácil ao projeto ao vivo.
+A Tela de Login - Sorteador de Números é uma aplicação web desenvolvida para simular a página de login de um sistema de sorteio de números. Utilizando HTML para a estruturação da página e CSS para estilização, a aplicação oferece uma interface clara e funcional. O projeto está hospedado na Vercel, permitindo acesso rápido e fácil ao projeto ao vivo.
 
 ## 🌟 Funcionalidades Principais
 
-- **Formulário de Login**: Interface simples para inserção de credenciais.
-- **Estilização Atraente**: Design que reflete a identidade visual da hamburgueria.
-- **Responsividade**: Layout que se adapta a diferentes tamanhos de tela para uma experiência de usuário consistente.
+- **Formulário de Login: Interface simples para inserção de dois números entre 1 e 10.
+- **Estilização Atraente: Design clean e visualmente agradável, que reflete a funcionalidade do sorteador.
+- **Responsividade: Layout que se adapta a diferentes tamanhos de tela para garantir uma experiência de usuário consistente.
 
 ## 🛠 Tecnologias Utilizadas
 
